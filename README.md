@@ -12,7 +12,7 @@
 
 ### 方法一：直接安装
 1. 将本插件文件夹放到 `ComfyUI/custom_nodes/` 目录下
-2. 去插件目录下填入你的魔塔API KEY，没有就去 https://modelscope.cn 注册个号，每天有免费的2000次调用，单个模型是500次，轻度使用是够了的，不够就多注册两个号，有提供3个KEY的调用选项
+2. 去插件目录下config.json文件中填入你的魔塔API KEY，没有就去 https://modelscope.cn 注册个号，每天有免费的2000次调用，单个模型是500次，轻度使用是够了的，不够就多注册两个号，有提供3个KEY的调用选项
 3. 重启ComfyUI
 
 ### 方法二：使用Git
@@ -20,4 +20,5 @@
 cd ComfyUI/custom_nodes
 
 git clone https://github.com/duannaiguo/ComfyUI-ModelScope-VL.git
+
 
