@@ -1,0 +1,11 @@
+{
+  "api_keys": {
+    "key_1": "你的第一个魔搭平台API Key",
+    "key_2": "你的第二个魔搭平台API Key（可选）",
+    "key_3": "你的第三个魔搭平台API Key（可选）"
+  },
+  "settings": {
+    "polling_interval": 3,
+    "max_polling_time": 300
+  }
+}
